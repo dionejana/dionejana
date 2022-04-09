@@ -6,9 +6,9 @@
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
 <div align="center">
-   <a href="https://www.linkedin.com/in/dionedomingues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/dione-domingues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/dionedomingues/detail/recent-activity/posts/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF0000?style=for-the-badge&logo=Blogger&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/dione-domingues/detail/recent-activity/posts/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF0000?style=for-the-badge&logo=Blogger&logoColor=white" target="_blank"></a>
 </div>
 
 ***
