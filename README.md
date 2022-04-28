@@ -1,6 +1,6 @@
 #
 
-<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o Dione Domingues - dev JAVA / NODE.JS </h1>
+<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Dione Domingues -Desenvolvedor JR - FRONT-END e BACKEND node.JS </h1>
 
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
@@ -18,10 +18,10 @@
 
 - 🎯 Amo tecnologias, mas adoro ainda mais os resultados e transformações de negócios que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** para criar soluções de alto valor.
 
-- 📈 Adepto das **metodologias agéis**, também possuo a certificação **Scrum Fundamentals Certified.
+- 📈 Adepto das **metodologias agéis**, também possuo a certificação **Scrum Fundamentals Certified**.
 
-- 🎓 Formado em **Analise e desenvolvimento de sistemas** e continuo me atualizando nas tendências de tecnologias do mercado através de cursos técnicos,
-me especializei em soluções enterprise.
+- 🎓 Formado em **Analise e desenvolvimento de sistemas** e continuo me atualizando nas tendências de tecnologias do mercado através de cursos.
+
 
 ***
 ## 🛠 &nbsp;Tech Stack
